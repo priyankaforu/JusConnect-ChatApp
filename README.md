@@ -21,7 +21,7 @@ Let me explain this in layman terms , so that anyone who is yet to start their d
 - You can install "bcrypt" and "jsonwebtokens" as well
 
 ### Frontend
-- React JS
+- React JS, Vite
 - Tailwind CSS
 - Daisy UI { used for components and themes }
 - Zustand
@@ -30,5 +30,30 @@ Let me explain this in layman terms , so that anyone who is yet to start their d
 
 ## How To Install and Run The Project ?
 First "Fork" this repository into your local machine. Then follow these commands/instructions
+### Backend
+- Navigate to the backend folder using command ```cd backend```
+- Then use this command ```npm init -y```
+- Then install all the techs from Techstack mentioned above ```npm i express mongoose cloudinary bcrypty jsonwebtokens```
+- Then type ```npm run dev``` in your terminal.
+- Note : Type all these commands in your terminal after opening the folder
+### Frontend
+- Navigate to the frontend folder using command ```cd frontend```
+- Then install the vite using ```npm create vite@latest .```
+- You can install all the frontend libraries and other techstack mentioned above here followint the command ```npm i zustand axios```
+- For tailwind CSS please refer this to understand the installation and configuration process https://v3.tailwindcss.com/
+- Then run the frontend by using ```npm run dev```
+- Note: If you want to have a look at the whole application you must open : Two terminal windows, one for backend and other for frontend and run these commands ```npm run dev```
+  in both the windows
 
-- Navigate to the backend folder using 
+### The dotenv file
+There is one more file, which no one can see in my repo, I want to give the format of how it looks,
+
+MONGO_URI = ...
+PORT = ...
+JWT_SECRET = ...
+
+CLOUDINARY_CLOUD_NAME = ...
+CLOUDINARY_API_KEY = ...
+CLOUDINARY_API_SECRET = ...
+
+NODE_ENV = ...
