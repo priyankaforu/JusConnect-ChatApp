@@ -58,8 +58,8 @@ There is one more file, which no one can see in my repo, I want to give the form
   MONGO_URI = ...
 ```
 
-<code style="color: blue; font-size: 18px ">Credits</code>
 
+<h2 style="color: blue;">CREDITS</h2>
 I am a beginner, still learning how to develop the real time apps and if you are someone like me , I genuinely suggest you to take this course. I owe the rights to tutor of this web app. Follow this link to understand this project in detailed
 https://www.udemy.com/share/10cMgf3@GR41khYCzW1IAg9YgmMdh8uoZty1sh2kJBeYVgqxptHqsFysXdAClPwKoDQMhtRbHw==/
 
