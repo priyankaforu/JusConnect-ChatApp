@@ -1,3 +1,7 @@
+![GitHub forks](https://img.shields.io/github/forks/priyankaforu/JusConnect-ChatApp?style=flat-square&logoColor=violet&logoSize=auto)
+![GitHub forks](https://img.shields.io/github/stars/priyankaforu/JusConnect-ChatApp?style=flat&logoColor=blue&logoSize=auto&labelColor=gray&color=blue)
+
+
 # A Real time Chat Application
 
 ## Description
